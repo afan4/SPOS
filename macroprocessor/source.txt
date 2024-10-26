@@ -1,0 +1,22 @@
+macro add num1, num2
+a1
+maCro sub num1, num2
+s1
+s2
+s3
+mend
+a2
+mend
+The code above should not come in output coz it's just definitions.
+The actual code begins from here.
+sure, you can write any shit in the file.
+start 1000
+mover areg, 50
+movem breg, 100
+I am now calling first function. The following line should be replaced by the body:
+add areg, 30
+dbms_output.print_line('Present Ma'am!')
+equ areg, 40
+add 5,6
+sub 3,4
+Original Code by Afan Shaikh [git: afan4].
